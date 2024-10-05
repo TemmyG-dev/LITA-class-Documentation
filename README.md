@@ -1,4 +1,4 @@
-# LITA-class-documentation-
+# LITA-class-Documentation
 
 ### Project Title: Data Analysis Course
 ---
