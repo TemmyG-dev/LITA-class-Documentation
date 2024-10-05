@@ -5,7 +5,7 @@
 
 ### Project Overview
 ---
-
+The Data Analysis project is to generate insight of all the topic thaught during the period of learning
 
 ### Data Sources
 ---
@@ -13,7 +13,7 @@ The primary source of Data used here are data provided by the teacher during cla
 
 ### Tools Used
 ---
-- Mcrosoft Excel [Download Here].(https://www.microsoft.com).
+- Mcrosoft Excel .[Download Here].(https://www.microsoft.com).
    1. for Data Cleaning
    2. for  Analysis
    3. for Data visualization
@@ -44,5 +44,11 @@ WHERE CONDITION = TRUE
 
 
 
+[Excel Functions 3 - LookUp(3).xlsx](https://github.com/user-attachments/files/17267613/Excel.Functions.3.-.LookUp.3.xlsx)
+
 
  
+[Pivot Tables File.xlsx](https://github.com/user-attachments/files/17267616/Pivot.Tables.File.xlsx)
+
+
+
